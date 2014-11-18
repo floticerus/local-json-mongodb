@@ -1,0 +1,28 @@
+{
+  "name": "local-json-mongodb",
+  "version": "0.0.1",
+  "description": "mongodb storage method for local-json.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kvonflotow/local-json-mongodb.git"
+  },
+  "keywords": [
+    "json",
+    "reader",
+    "local",
+    "async",
+    "dynamic",
+    "mongodb"
+  ],
+  "dependencies": {
+    "mongodb": "~1.4.20",
+    "local-json": "~0.0.9"
+  },
+  "author": "kevin von flotow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvonflotow/local-json-mongodb/issues"
+  },
+  "homepage": "https://github.com/kvonflotow/local-json-mongodb"
+}
