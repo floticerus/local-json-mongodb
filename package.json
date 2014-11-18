@@ -1,6 +1,6 @@
 {
   "name": "local-json-mongodb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mongodb storage method for local-json.",
   "main": "index.js",
   "repository": {
